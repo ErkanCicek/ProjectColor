@@ -1,6 +1,4 @@
-package functionality.colorTable.customRenderer;
-
-import functionality.colorTable.customRenderer.foregroundColorHelper.ForegroundPicker;
+package functionality.colorTable.impl;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;

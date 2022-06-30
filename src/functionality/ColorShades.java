@@ -12,7 +12,7 @@ public class ColorShades {
 	 * @param rounds pass in the array length
 	 * @implNote Pass in a color array and get the shades of the colors, from bright to dark.
 	 */
-	public static void getColorShades(Color[]colors, int rounds){
+	public static Color[] getColorShades(Color[]colors, int rounds){
 		if (rounds != 1) {
 			Color color = colors[rounds - 1];
 			for (int i = 0; i < rounds - 1; i++) {
@@ -22,5 +22,6 @@ public class ColorShades {
 			rounds = rounds - 1;
 			getColorShades(colors, rounds);
 		}
+		return colors;
 	}
 }

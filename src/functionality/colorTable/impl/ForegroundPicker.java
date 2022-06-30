@@ -1,4 +1,4 @@
-package functionality.colorTable.customRenderer.foregroundColorHelper;
+package functionality.colorTable.impl;
 
 import java.awt.*;
 
