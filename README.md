@@ -1,4 +1,3 @@
 # ProjectColor - pick a color with the point of your mouse
 
-![](demoProjectColor.gif![demoProjectColor](https://user-images.githubusercontent.com/90839872/176993265-a50088d4-c6f2-452c-9032-35bf1272fe70.gif)
-)
+![demoProjectColor](https://user-images.githubusercontent.com/90839872/176993602-97a94649-e1e6-4d50-b9aa-fa6e55138fcb.gif)
