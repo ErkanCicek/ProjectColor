@@ -24,4 +24,6 @@
 
 * Copy the rgb value with: ALT + Z
 * Copy the hexcode with: ALT + C 
-* Most importantly: ALT + X to get the color you want
+* Most importatly: ALT + X to get the color you want
+
+
